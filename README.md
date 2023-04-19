@@ -12,9 +12,9 @@ None
 
 None
 
-## Functions
+### Functions
 
-### func Sha256ToString
+#### func Sha256ToString
 
 ```go
 func Sha256ToString(contents interface{}) string
